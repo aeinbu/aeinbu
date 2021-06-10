@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi!
+
+Welcome to my little place on github.  
+You'll find some of my writings at https://aeinbu.github.io.
 
 <!--
 **aeinbu/aeinbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
